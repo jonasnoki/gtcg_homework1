@@ -2,6 +2,10 @@
 
 This is a simple Frenet Trihedron Simulation. The curve is (x, x^2, x^3).
 
+The main implementation is at "src/client/client.ts"
+
+You can see it live [here](https://jonasnoki.github.io/gtcg_homework1/). 
+
 ## Boilerplate:
 This boilerplate is supplementary to my book titled **Three.js and TypeScript** (ASIN : B09GYTKRCH)
 
